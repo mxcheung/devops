@@ -1,1 +1,19 @@
 
+Here are some sample quickstarts for 
+     
+	Sample Java https://spring.io/guides/gs/spring-boot/
+
+	Sample Angular - https://github.com/angular/quickstart
+
+	Sample Python - https://www.pythontutorial.net/getting-started/python-hello-world/
+
+
+Questions 
+=================
+Q1 if the above needs to run in a server
+   please describe how you would enable Jenkins CICD for the above sample programs?
+   e.g pipelines, configurations, deployment etc
+   
+Q2 In additional if the above needs to run in a container
+   please describe how you would enable Jenkins CICD for the above sample programs?
+   e.g pipelines, configurations, docker files etc
