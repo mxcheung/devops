@@ -17,3 +17,18 @@ Q1 if the above needs to run in a server
 Q2 In additional if the above needs to run in a container
    please describe how you would enable Jenkins CICD for the above sample programs?
    e.g pipelines, configurations, docker files etc
+
+
+
+1.	Strong scripting knowledge preferable in shell and Groovy
+2.	Deep understanding of CICD philosophy and hands on experience of implementing it 
+3.	Ability to write Orchestration pipelines in Jenkins for software deployment.
+4.	Experience with containerization of Java and Angular Applications
+5.	Good coding experience with Java (Understanding of Spring MVC)
+6.	Good hands on Experience with Linux environment 
+7.	Experience with Test Automation using Java(selenium)
+8.	Ability to integrate tests with Deployment pipelines.
+9.	Good Experience with Git and  git-flow
+10.	Openshift experience will be a bonus  
+11.	Experience working with Bitbucket , Jenkins , Jira and Confluence 
+12.	Good understanding of Release management.
